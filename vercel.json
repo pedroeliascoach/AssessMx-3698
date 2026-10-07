@@ -1,4 +1,5 @@
 {
+  "installCommand": "npm install",
   "buildCommand": "npx vite build packages/web",
   "outputDirectory": "packages/web/dist",
   "framework": "vite"
