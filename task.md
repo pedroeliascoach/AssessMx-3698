@@ -1,0 +1,13 @@
+ # AssessMx — progreso
+ - Plan aprobado; datos de contacto omitidos; renovación en proceso.
+ - Entorno administrado creado y logo/foto/fuentes locales preparados.
+ - Implementado: portada, cinco servicios, estándares con acordeón, metodología, nosotros, contacto.
+ - API: solicitudes sin endpoint público de lectura; validación, consentimiento y campo trampa.
+ - db:push aplicado; lint y build exitosos.
+ - Playwright: escritorio y móvil sin errores de página; sin desbordamiento móvil; selección de servicio, acordeón, modal con Escape y envío probados.
+ - Persistencia comprobada por lectura directa de tres solicitudes técnicas; datos técnicos eliminados.
+ - Contacto público incorporado en sección de contacto y pie: contacto.assessmx@gmail.com, 81 3097 7611, Monterrey, N.L., México. Enlaces mailto y tel con prefijo +52, sin asumir WhatsApp.
+ - Aviso integral adjunto incorporado íntegro en /aviso-de-privacidad; 17 apartados, fechas originales, índice y descarga TXT. Enlaces desde formulario y pie, resumen modal actualizado con domicilio y canal ARCO.
+ - Verificación: texto renderizado coincide con el adjunto al normalizar espacios; descarga HTTP 200; navegación, índice móvil, modal y enlaces probados; sin errores de página ni desbordamiento. Lint y build exitosos.
+ - Esta incorporación no es validación jurídica ni implementa automáticamente las políticas operativas descritas en el aviso.
+ - Sin correos automáticos ni panel, conforme al plan aprobado.
